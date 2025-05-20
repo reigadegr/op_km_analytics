@@ -1,0 +1,1 @@
+[    1.439055][  T768] Module oplus_bsp_zram_opt is blacklisted

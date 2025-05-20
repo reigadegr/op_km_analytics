@@ -1,0 +1,1 @@
+[    1.480434][  T742] Module oplus_bsp_sigkill_diagnosis is blacklisted

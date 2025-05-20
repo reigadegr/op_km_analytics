@@ -1,0 +1,1 @@
+[    1.387789][  T727] Module oplus_bsp_dynamic_readahead is blacklisted

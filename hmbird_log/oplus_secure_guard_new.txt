@@ -1,0 +1,1 @@
+[    1.496976][  T800] Module oplus_secure_guard_new is blacklisted

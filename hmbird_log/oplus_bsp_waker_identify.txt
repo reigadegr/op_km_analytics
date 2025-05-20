@@ -1,0 +1,3 @@
+[    1.164632][  T485] modprobe: Loading module /vendor/lib/modules/oplus_bsp_waker_identify.ko with args ''
+[    1.164869][  T485] Module oplus_bsp_waker_identify is blacklisted
+[    1.164883][  T485] modprobe: Loaded kernel module /vendor/lib/modules/oplus_bsp_waker_identify.ko

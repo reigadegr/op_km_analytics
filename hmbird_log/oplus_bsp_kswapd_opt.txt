@@ -1,0 +1,1 @@
+[    1.490637][  T734] Module oplus_bsp_kswapd_opt is blacklisted

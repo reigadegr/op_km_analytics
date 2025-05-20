@@ -1,0 +1,2 @@
+[    1.193369][  T521] Module hung_task_enh is blacklisted
+[    1.537494][  T700] Module oplus_bsp_dfr_hung_task_enhance is blacklisted

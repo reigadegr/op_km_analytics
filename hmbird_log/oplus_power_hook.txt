@@ -1,0 +1,1 @@
+[    1.338953][  T798] Module oplus_power_hook is blacklisted

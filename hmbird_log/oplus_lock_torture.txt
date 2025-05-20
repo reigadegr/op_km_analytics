@@ -1,0 +1,1 @@
+[    1.544942][  T774] Module oplus_lock_torture is blacklisted

@@ -1,0 +1,3 @@
+[    0.383983][  T142] init: Loading module /lib/modules/oplus_wq_dynamic_priority.ko with args ''
+[    0.383992][  T142] Module oplus_wq_dynamic_priority is blacklisted
+[    0.383995][  T142] init: Loaded kernel module /lib/modules/oplus_wq_dynamic_priority.ko

@@ -1,0 +1,2 @@
+[    1.438903][  T768] Module oplus_bsp_hybridswap_zram is blacklisted
+[    1.483867][  T730] Module oplus_bsp_hybridswap_zram is blacklisted

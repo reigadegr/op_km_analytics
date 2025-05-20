@@ -1,0 +1,1 @@
+[    0.369303][  T130] Module qcom_cpufreq_thermal is blacklisted

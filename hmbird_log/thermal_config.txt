@@ -1,0 +1,1 @@
+[    1.457265][  T610] Module thermal_config is blacklisted

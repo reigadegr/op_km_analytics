@@ -1,0 +1,1 @@
+[    1.497418][  T733] Module oplus_bsp_kshrink_slabd is blacklisted

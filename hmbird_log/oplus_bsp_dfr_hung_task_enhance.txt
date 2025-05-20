@@ -1,0 +1,1 @@
+[    1.537494][  T700] Module oplus_bsp_dfr_hung_task_enhance is blacklisted

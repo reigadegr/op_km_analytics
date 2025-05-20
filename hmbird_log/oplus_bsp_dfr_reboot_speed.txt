@@ -1,0 +1,3 @@
+[    0.384578][  T149] init: Loading module /lib/modules/oplus_bsp_dfr_reboot_speed.ko with args ''
+[    0.384598][  T149] Module oplus_bsp_dfr_reboot_speed is blacklisted
+[    0.384600][  T149] init: Loaded kernel module /lib/modules/oplus_bsp_dfr_reboot_speed.ko

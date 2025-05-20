@@ -1,0 +1,3 @@
+[    0.384400][  T144] init: Loading module /lib/modules/thermal_pause.ko with args ''
+[    0.384424][  T144] Module thermal_pause is blacklisted
+[    0.384428][  T144] init: Loaded kernel module /lib/modules/thermal_pause.ko

@@ -1,0 +1,3 @@
+[    1.438076][  T769] Module oplus_bsp_zsmalloc is blacklisted
+[    1.438512][  T768] Module oplus_bsp_zsmalloc is blacklisted
+[    1.483793][  T730] Module oplus_bsp_zsmalloc is blacklisted

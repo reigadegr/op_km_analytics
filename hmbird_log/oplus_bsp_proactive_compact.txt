@@ -1,0 +1,1 @@
+[    1.384612][  T740] Module oplus_bsp_proactive_compact is blacklisted
